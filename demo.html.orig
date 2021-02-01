@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>A demo</title>
+	</head>
+	<body>
+<<<<<<< HEAD
+		<h1>I'am dev branch</h1>
+=======
+		<h1>dev-b change!</h1>
+>>>>>>> dev-b
+	</body>
+</html>
